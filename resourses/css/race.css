@@ -1,0 +1,25 @@
+body{
+    background-color: lime;
+    font-family: 'Sriracha', cursive;
+    text-align: center;
+    font-size: medium;
+}
+h1 {color: blue;}
+p {
+    font-size: 20px;
+}
+
+.box {
+    border: 10px solid red;
+    border-radius: 35px;
+    width: 400px;
+    height: 400px;
+    margin: 20px auto;
+    background-color: yellow;
+    padding: 20px;
+}
+img {
+    width: 100px;
+    height: 95px;
+    margin-top: 30px;
+}
